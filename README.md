@@ -14,8 +14,8 @@ This repository contains a Streamlit-based application for predicting house pric
 - **Error Metric**: Displays Mean Squared Error (MSE) of the model.
 ## Creator
 
-- [sujit sathe](https://github.com/sujitsathe)
+- [Ninad Bedse](https://github.com/ninadbedse5)
 
 ## Support
 
-For support, email sujitsathe11@gmail.com  
+For support, email ninadbedse5@gmail.com  
